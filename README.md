@@ -122,6 +122,8 @@ bind = SUPER, O,      exec, telegram-desktop
 To setup wallpaper just paste you wallpaper into pictures folder and name it wallpaper.jpg
 or replace image address in ~/.config/hypr/hyprpaper.conf
 
+## Screenshots
 
+![My current Desktop](https://github.com/vs66388/hyprland/blob/main/screenshot.png)
 
 
