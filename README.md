@@ -5,7 +5,9 @@ setting up hyperland for newbie's and pro's alike
 
 
 ## Getting Started 
-To get started you'll need few utilities and some basic things 
+To get started you'll need few utilities and some basic things, 
+We'll go in steps as;
+
 1. Adding Wayland & Xwayland 
 2. Installing an AUR helper 
 3. Installing hyprland and related dependencies
