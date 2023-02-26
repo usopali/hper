@@ -103,3 +103,25 @@ cp .config/ ~/.config/
 ```
 after that cheack if all the folders are in ~/.config or not 
 
+## Keybinds
+
+```bash
+bind = SUPER, W,      exec, brave
+bind = SUPER, F,      exec, pcmanfm-qt
+bind = SUPER, RETURN, exec, wezterm
+bind = SUPER, X,      exec, wlogout
+bind = SUPER, O,      exec, telegram-desktop
+```
+## Sample of Hyprland and Hyprpaper
+[Hyprland](https://github.com/vs66388/hyprland/blob/main/hypr/hyprland.conf)
+
+[Hyprpaper](https://github.com/vs66388/hyprland/blob/main/hypr/hyprpaper.conf)
+
+## Wallpaper 
+
+To setup wallpaper just paste you wallpaper into pictures folder and name it wallpaper.jpg
+or replace image address in ~/.config/hypr/hyprpaper.conf
+
+
+
+
